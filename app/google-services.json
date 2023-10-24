@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955728288236",
+    "project_id": "tapme-1e569",
+    "storage_bucket": "tapme-1e569.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955728288236:android:215d80f8fa59e5566dc8c9",
+        "android_client_info": {
+          "package_name": "com.example.tapme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtwycKNmzNe69o3WrAxAOHq8bBA1cyDAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
